@@ -4,9 +4,7 @@ The main branch conains all files used to configure my Linux desktop.
 
 The MacOS branch contains the files used in my MacOS Workstation.
 
-############
-Installation
-############
+##Installation
 
 Ensure that git, and stow are installed on the machine.
 
