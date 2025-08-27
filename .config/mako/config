@@ -1,0 +1,16 @@
+#Colors
+
+background-color=#232A2E
+text-color=#d3c6aa
+border-size=0
+padding=10
+progress-color=over #414559
+border-radius=5
+
+#Timeout
+default-timeout=5000
+ignore-timeout=1
+
+[urgency=high]
+border-color=#ef9f76
+
